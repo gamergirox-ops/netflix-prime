@@ -1,0 +1,12 @@
+node_modules/
+.env
+data/*.db
+data/*.db-*
+data/*.db-shm
+data/*.db-wal
+*.log
+.DS_Store
+music/clips/*
+!music/clips/.gitkeep
+package-lock.json
+data/*.json
